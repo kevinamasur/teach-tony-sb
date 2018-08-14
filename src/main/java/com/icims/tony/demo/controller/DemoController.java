@@ -22,6 +22,7 @@ public class DemoController {
 		DemoDTO demoDTO = new DemoDTO();
 		demoDTO.setBar(5);
 		demoDTO.setFoo("String fofo");
+		service.runDemo();
 		return demoDTO;
 	}
 

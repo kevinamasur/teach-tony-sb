@@ -24,3 +24,7 @@ hs_err_pid*
 
 # added
 .DS_Store
+/target/
+.classpath
+.project
+.settings/
